@@ -15,3 +15,11 @@ public class Main{
         }		
     }
 }
+
+/*
+The while loop could be modified to:
+while(!(max%num1==0 && max%num2==0)){     
+	      max++;
+        }
+ System.out.println("LCM is: "+ max);
+ */
